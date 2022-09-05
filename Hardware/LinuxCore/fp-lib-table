@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "RLT8188_WIFI_Modul")(type "KiCad")(uri "${KIPRJMOD}/Footprints/RLT8188_WIFI_Modul.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "NUC980DK61YC")(type "KiCad")(uri "${KIPRJMOD}/Lib/NUC980DK61YC.kicad_sym")(options "")(descr ""))
+  (lib (name "L-KLS1-TF-003-H1.85-R")(type "KiCad")(uri "${KIPRJMOD}/Lib/L-KLS1-TF-003-H1.85-R.kicad_sym")(options "")(descr ""))
+  (lib (name "RLT8188")(type "KiCad")(uri "${KIPRJMOD}/Lib/RLT8188.kicad_sym")(options "")(descr ""))
+)
