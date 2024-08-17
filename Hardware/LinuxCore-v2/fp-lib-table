@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "F35SQA001G")(type "KiCad")(uri "${KIPRJMOD}/Footprints/F35SQA001G.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "RLT8188_WIFI_Modul")(type "KiCad")(uri "${KIPRJMOD}/Footprints/RLT8188_WIFI_Modul.pretty")(options "")(descr ""))
+  (lib (name "L-KLS3-MM6027PP-443")(type "KiCad")(uri "${KIPRJMOD}/Footprints/L-KLS3-MM6027PP-443.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AM3358BZCZ100")(type "Legacy")(uri "${KIPRJMOD}/Lib/AM3358BZCZ100.lib")(options "")(descr ""))
+  (lib (name "TPS65217CRSLR")(type "Legacy")(uri "${KIPRJMOD}/Lib/TPS65217CRSLR.lib")(options "")(descr ""))
+  (lib (name "F35SQA001G")(type "KiCad")(uri "${KIPRJMOD}/Lib/F35SQA001G.kicad_sym")(options "")(descr ""))
+  (lib (name "L-KLS3-MM6027PP-443")(type "KiCad")(uri "${KIPRJMOD}/Lib/L-KLS3-MM6027PP-443.kicad_sym")(options "")(descr ""))
+)
