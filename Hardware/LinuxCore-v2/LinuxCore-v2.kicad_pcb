@@ -34825,7 +34825,7 @@
 			(pintype "input")
 			(uuid "e424391b-a05c-4cd7-addb-d58f682c0faa")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47583,6 +47583,17 @@
 			(net 254 "Net-(C71-Pad1)")
 			(pintype "input")
 			(uuid "ff0b9451-03e5-422a-a921-42a026b6342e")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Sensor_Audio.3dshapes/POM-2244P-C3310-2-R.wrl"
+			(offset
+				(xyz -1 6 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"

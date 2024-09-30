@@ -1147,6 +1147,16 @@
 		)
 		(uuid "5a58284e-4ae6-4d3a-acd7-64b5fbd73b04")
 	)
+	(text "@0x6D cpu trigger"
+		(exclude_from_sim no)
+		(at 256.032 119.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "616a56fb-85fb-43dd-b5f5-6a468e574c31")
+	)
 	(text "I2C1_SDA"
 		(exclude_from_sim no)
 		(at 220.98 166.624 0)
@@ -1373,6 +1383,16 @@
 			)
 		)
 		(uuid "a52e44b8-d045-4203-a613-ef4bab58475d")
+	)
+	(text "@0x6C heartbeat trigger"
+		(exclude_from_sim no)
+		(at 258.572 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aa09cc0f-89bf-4150-a9ea-1ba5e1d6aacf")
 	)
 	(text "@VCAP1_DATA3"
 		(exclude_from_sim no)
@@ -1635,6 +1655,16 @@
 		)
 		(uuid "e4ece3f4-2d2f-41fc-ba99-23cb1a6359c7")
 	)
+	(text "@0xA9 default on trigger"
+		(exclude_from_sim no)
+		(at 259.334 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ea9226e2-01f5-432e-b998-4ddd81634fc7")
+	)
 	(text "@DATA7\n"
 		(exclude_from_sim no)
 		(at 153.67 89.535 0)
@@ -1677,6 +1707,16 @@
 			(justify left bottom)
 		)
 		(uuid "f2ba3283-5251-4124-b186-747b136b332c")
+	)
+	(text "@0xA8 activity trigger"
+		(exclude_from_sim no)
+		(at 257.81 121.158 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f5c4564b-68f0-4852-8cdf-0fa14a044ddc")
 	)
 	(text "@LCD-IRQ"
 		(exclude_from_sim no)
